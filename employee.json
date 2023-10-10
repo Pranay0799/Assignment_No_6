@@ -1,0 +1,40 @@
+{
+    "employees": [
+        {
+            "name": "Suraj",
+            "dob": "1997-01-06",
+            "height": 160,
+            "city": "Pune",
+            "state": "Maharashtra"
+        },
+        {
+            "name": "Darpan",
+            "dob": "1998-04-24",
+            "height": 169,
+            "city": "Bangalore",
+            "state": "Karnataka"
+        },
+        {
+            "name": "Sanket",
+            "dob": "1995-05-04",
+            "height": 165,
+            "city": "Mumbai",
+            "state": "Maharashtra"
+        },
+        {
+            "name": "Pranay",
+            "dob": "1999-12-10",
+            "height": 163,
+            "city": "Chennai",
+            "state": "Tamil Nadu"
+        },
+        {
+            "name": "Akskay",
+            "dob": "2000-01-30",
+            "height": 175,
+            "city": "Bhopal",
+            "state": "Madhya Pradesh"
+        }
+        
+    ]
+}
